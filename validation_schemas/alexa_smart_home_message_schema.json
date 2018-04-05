@@ -1214,8 +1214,7 @@
                                         "COOL",
                                         "AUTO",
                                         "ECO",
-                                        "OFF",
-                                        "CUSTOM"
+                                        "OFF"
                                     ]
                                 },
                                 "timeOfSample": {
